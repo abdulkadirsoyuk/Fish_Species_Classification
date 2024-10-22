@@ -22,7 +22,8 @@ Veri seti Kaggle'dan temin edilmiştir ve balık türlerini tanımlamak için ku
 ## Sonuçlar
 
 ### Eğitim ve Doğrulama Kayıp Fonksiyonu
-![Kayıp Fonksiyonu](images/kayipfonksiyonu.png)
+<img src="images/kayipfonksiyonu.png" alt="Kayıp Fonksiyonu" width="50%">
+
 
 ### Eğitim ve Doğrulama Doğruluğu
 ![Doğruluk Grafiği](images/rocegrisi.png)
