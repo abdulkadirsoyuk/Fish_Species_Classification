@@ -22,17 +22,16 @@ Veri seti Kaggle'dan temin edilmiştir ve balık türlerini tanımlamak için ku
 ## Sonuçlar
 
 ### Eğitim ve Doğrulama Kayıp Fonksiyonu
-<img src="images/kayipfonksiyonu.png" alt="Kayıp Fonksiyonu" width="50%">
-
+<img src="images/kayipfonksiyonu.png" alt="Kayıp Fonksiyonu" width="55%">
 
 ### Eğitim ve Doğrulama Doğruluğu
-![Doğruluk Grafiği](images/rocegrisi.png)
+<img src="images/rocegrisi.png" alt="Doğruluk Grafiği" width="55%">
 
 ### Confusion Matrix
-![Confusion Matrix](images/conf.png)
+<img src="images/conf.png" alt="Confusion Matrix" width="55%">
 
 ### Classification Report
-![Classification Report](images/clasif.png)
+<img src="images/clasif.png" alt=Classification Report" width="55%">
 
 ## Kullanılan Kütüphaneler
 
