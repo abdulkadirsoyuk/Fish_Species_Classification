@@ -8,7 +8,6 @@
 
 Bu proje, balık türlerini sınıflandırmak amacıyla bir yapay zeka ve makine öğrenimi süreci içerir. Kullanılan veri seti, balıkların çeşitli görüntüleri ve türleri ile ilişkilendirilmiştir. Proje, veri hazırlığı, model geliştirme, model eğitimi ve sonuçların değerlendirilmesi aşamalarını kapsamaktadır.
 
-Veri seti Kaggle'dan temin edilmiştir ve balık türlerini tanımlamak için kullanılmıştır.
 
 ## Yöntemler
 
@@ -31,7 +30,7 @@ Veri seti Kaggle'dan temin edilmiştir ve balık türlerini tanımlamak için ku
 <img src="images/conf.png" alt="Confusion Matrix" width="55%">
 
 ### Classification Report
-<img src="images/clasif.png" alt=Classification Report" width="55%">
+<img src="images/clasif.png" alt="Classification Report" width="55%">
 
 ## Kullanılan Kütüphaneler
 
